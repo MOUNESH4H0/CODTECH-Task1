@@ -3,7 +3,7 @@ Company: CODTECHIT SOLUTIONS
 ID: CT08DS3791
 Domain: Emdedded Systems
 Duration: July to August 2024
-Mentor:
+Mentor: N.SANTHOSH KUMAR 
 
 Project Overview
 
