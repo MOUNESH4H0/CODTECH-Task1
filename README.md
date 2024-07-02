@@ -3,11 +3,12 @@ Company: CODTECHIT SOLUTIONS
 ID: CT08DS3791
 Domain: Emdedded Systems
 Duration: July to August 2024
-Mentor: 
+Mentor:
 
 Project Overview
 
 Project Name: LED Blinking with Arduino
+![image](https://github.com/MOUNESH4H0/CODTECH-Task1/assets/153296055/e72b99c7-0867-4c8d-bd3e-bc44a8c89626)
 
 Objectives:
 Learn basic embedded programming concepts using Arduino.
